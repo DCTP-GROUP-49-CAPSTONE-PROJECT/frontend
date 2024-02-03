@@ -9,9 +9,7 @@ function App() {
 
   return (
     <>
-    <div className=" h-[1000px] w-full">
-      <img src={landing} alt="" />
-    </div>
+
     </>
   )
 }
